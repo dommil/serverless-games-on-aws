@@ -142,6 +142,7 @@ In order to add authentication to your Unity game, you first need to create a us
 11.	 On the next page, under the part that says “Do you want to customize your email verification messages?”, change **Verification type** from Code to Link. 
 
         * This will allow your users to verify their email in a convenient way by clicking a link during the sign-up process.
+	* For production User Pools, it is recommended to use SES instead as Cognito has a daily email limit.
 
 <p align="center"><img src="http://d2a4jpfnohww2y.cloudfront.net/cognito/4.png" /></p> 
 

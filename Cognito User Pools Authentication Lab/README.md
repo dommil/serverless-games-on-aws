@@ -181,7 +181,7 @@ In order to add authentication to your Unity game, you first need to create a us
 
 <p align="center"><img src="http://d2a4jpfnohww2y.cloudfront.net/cognito/7.png" /></p> 
 
-23.	Add a unique prefix to your Amazon Cognito domain to be able to use the user pool within your mobile game. 
+23.	Add a unique prefix to your Amazon Cognito domain to be able to use the user pool within your game. 
 24.	Click **Check availability** to make sure your domain name is unique.
 25.	Select **Save changes**. 
 26.	There is some information you will need to reference later when you are adding Cognito functionality to your Unity game. On the left-hand navigation panel, click **General Settings**. 
